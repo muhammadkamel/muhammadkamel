@@ -2,4 +2,4 @@
 
 - 🔭 I’m working as a Mid-Senior Flutter Developer
 - 💬 Ask me about anything in **Flutter** & **UI**
-- 📫 How to reach me: **mu7ammadkamel@gmail** or **WhatsApp +201060099009**
+- 📫 How to reach me: **mu7ammadkamel@gmail**
